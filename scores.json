@@ -1,20 +1,20 @@
 [
   {
-    "at": "2026-09-17 18:30:00",
+    "at": "2026-09-17 18:49:09",
     "char": "sovereign",
-    "floor": 16,
-    "kills": 312,
-    "name": "qibao619",
-    "time": 1420.0,
-    "won": true
+    "floor": 9.0,
+    "kills": 218.0,
+    "name": "测试玩家",
+    "time": 237.899571999942,
+    "won": false
   },
   {
-    "at": "2026-09-17 18:00:00",
-    "char": "warrior",
-    "floor": 9,
-    "kills": 150,
-    "name": "qibao619",
-    "time": 700.0,
+    "at": "2026-09-17 18:28:20",
+    "char": "sovereign",
+    "floor": 2.0,
+    "kills": 18.0,
+    "name": "测试玩家",
+    "time": 1.45005466666666,
     "won": false
   }
 ]
